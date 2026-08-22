@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy for Medhayate
 
-**Last updated: 16 August 2026**
+**Last updated: 22 August 2026**
 
 ## The short version
 
@@ -32,20 +32,30 @@ is uploaded, shared, or sold — there is nowhere for it to go.
 
 | What | Why it exists |
 |---|---|
-| Your chosen theme | So the app looks the same next time you open it |
-| Fastest Minesweeper win, per difficulty | To show your best time |
+| Your settings — the theme, whether hints highlight the board, your play-limit choice, and any developer options you have switched on | So the app looks and behaves the same next time you open it |
+| Play time used, and when the current 4-hour window began | To apply the 15-minutes-per-4-hours play limit |
+| Fastest win in Minesweeper, Sudoku and Nonogram, per difficulty | To show your best time |
 | Fewest moves in Tower of Hanoi, per difficulty | To show your record |
 | Fewest flips in Pairs, per board size | To show your record |
-| Play time used, and when the current 4-hour window began | To apply the 15-minutes-per-4-hours play limit |
+| The game in progress in each of the eight games | So closing the app mid-game does not lose the board |
+
+A game in progress means the position itself — the squares dug, the disks stacked, the
+digits written — together with what the game needs to carry on: the options that round
+was started with, the clock in a timed game, and the running score in a game that keeps
+one for the sitting. It is overwritten as you play and replaced when you start a new
+round.
 
 That is the complete list. None of it identifies you: there are no names, no email
-addresses, no device identifiers, and no usage history beyond the records above.
+addresses, no device identifiers, no advertising ID, and no usage history — nothing
+records when you played, how often, or for how long beyond the single 4-hour window
+the play limit is currently counting.
 
 ## Backups are switched off
 
 Android can copy an app's data to a user's Google Drive automatically. Medhayate
-disables this (`allowBackup="false"`), so even your theme choice and your best times
-stay on the device and are never copied off it.
+disables this (`allowBackup="false"`), so even your theme choice, your best times and
+your saved games stay on the device and are never copied off it. The other side of that
+choice is worth saying plainly: they do not survive moving to a new phone either.
 
 ## Deleting your data
 

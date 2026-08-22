@@ -6,7 +6,7 @@ title: Medhayate
 
 *Sanskrit: "sharpens one's own intellect"*
 
-An offline Android brain-games app: five thinking games, each with hints that explain
+An offline Android brain-games app: eight thinking games, each with hints that explain
 their reasoning, behind a deliberate 15-minutes-per-4-hours play limit.
 
 **No account, no internet, no ads, no permissions at all.**
