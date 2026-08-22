@@ -67,8 +67,8 @@ PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ## 8. Limitation of liability
 
 To the maximum extent permitted by law, the developer shall not be liable for any
-claim, damages, or other liability â€” whether direct, indirect, incidental, special, or
-consequential, including loss of data or records â€” arising from or in connection with
+claim, damages, or other liability — whether direct, indirect, incidental, special, or
+consequential, including loss of data or records — arising from or in connection with
 the app or its use.
 
 Nothing in these terms limits any liability that cannot lawfully be limited, and
@@ -76,9 +76,9 @@ nothing here affects your statutory consumer rights.
 
 ## 9. Trademarks and game names
 
-"Medhayate", "à¤®à¥‡à¤§à¤¾à¤¯à¤¤à¥‡", and the Medhayate logo are trademarks of the developer.
+"Medhayate", "मेधायते", and the Medhayate logo are trademarks of the developer.
 
-The games in the app are traditional games described by their generic names â€” Four in a
+The games in the app are traditional games described by their generic names — Four in a
 Row, Pairs, Tic-Tac-Toe, Minesweeper, Tower of Hanoi. No affiliation with, sponsorship
 by, or endorsement from any third-party rights holder is claimed or implied.
 
