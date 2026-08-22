@@ -1,4 +1,4 @@
----
+﻿---
 title: Privacy Policy
 ---
 
@@ -16,7 +16,7 @@ anything at all.
 ## Why that claim is verifiable
 
 Medhayate does not request the `INTERNET` permission. On Android this is not a setting
-or a promise — an app without that permission is blocked by the operating system from
+or a promise â€” an app without that permission is blocked by the operating system from
 opening a network connection. The app therefore *cannot* send your data anywhere, even
 if it were asked to.
 
@@ -28,25 +28,25 @@ permission appears.
 ## What is stored, and where
 
 Everything Medhayate saves stays in the app's private storage on your device. Nothing
-is uploaded, shared, or sold — there is nowhere for it to go.
+is uploaded, shared, or sold â€” there is nowhere for it to go.
 
 | What | Why it exists |
 |---|---|
-| Your settings — the theme, whether hints highlight the board, your play-limit choice, and any developer options you have switched on | So the app looks and behaves the same next time you open it |
+| Your settings â€” the theme, whether hints highlight the board, your play-limit choice, and any developer options you have switched on | So the app looks and behaves the same next time you open it |
 | Play time used, and when the current 4-hour window began | To apply the 15-minutes-per-4-hours play limit |
 | Fastest win in Minesweeper, Sudoku and Nonogram, per difficulty | To show your best time |
 | Fewest moves in Tower of Hanoi, per difficulty | To show your record |
 | Fewest flips in Pairs, per board size | To show your record |
 | The game in progress in each of the eight games | So closing the app mid-game does not lose the board |
 
-A game in progress means the position itself — the squares dug, the disks stacked, the
-digits written — together with what the game needs to carry on: the options that round
+A game in progress means the position itself â€” the squares dug, the disks stacked, the
+digits written â€” together with what the game needs to carry on: the options that round
 was started with, the clock in a timed game, and the running score in a game that keeps
 one for the sitting. It is overwritten as you play and replaced when you start a new
 round.
 
 That is the complete list. None of it identifies you: there are no names, no email
-addresses, no device identifiers, no advertising ID, and no usage history — nothing
+addresses, no device identifiers, no advertising ID, and no usage history â€” nothing
 records when you played, how often, or for how long beyond the single 4-hour window
 the play limit is currently counting.
 
@@ -60,7 +60,7 @@ choice is worth saying plainly: they do not survive moving to a new phone either
 ## Deleting your data
 
 Uninstalling Medhayate deletes everything it has stored, permanently. You can also
-clear it without uninstalling, from **Settings → Apps → Medhayate → Storage → Clear
+clear it without uninstalling, from **Settings â†’ Apps â†’ Medhayate â†’ Storage â†’ Clear
 data**. There is no server-side copy to request the deletion of, because there is no
 server.
 
@@ -72,7 +72,7 @@ to gather, no profile to build, no advertising, and no content submitted by user
 ## Google Play
 
 If you installed Medhayate from Google Play, Google collects information about the
-installation itself — such as the download and basic crash diagnostics — under
+installation itself â€” such as the download and basic crash diagnostics â€” under
 [Google's own privacy policy](https://policies.google.com/privacy). That happens
 between your device and Google; Medhayate neither sees nor receives any of it.
 
