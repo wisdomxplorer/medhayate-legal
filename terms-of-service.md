@@ -28,8 +28,8 @@ The app's source code is proprietary and is not licensed for reuse.
 
 ## 3. The play limit is intentional
 
-Medhayate allows **15 minutes of play in any 4-hour window**, and closes the game when
-that is used up. This is a deliberate design choice, not a trial, a fault, or a
+Medhayate allows **15 minutes of play in any 5-hour window**, adjustable between 5 and
+20 minutes in Settings, and closes the game when that is used up. This is a deliberate design choice, not a trial, a fault, or a
 restriction that can be purchased away. Nothing is unlocked by paying, because there is
 nothing to pay for.
 

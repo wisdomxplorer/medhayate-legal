@@ -33,7 +33,7 @@ is uploaded, shared, or sold — there is nowhere for it to go.
 | What | Why it exists |
 |---|---|
 | Your settings — the theme, whether hints highlight the board, your play-limit choice, and any developer options you have switched on | So the app looks and behaves the same next time you open it |
-| Play time used, and when the current 4-hour window began | To apply the 15-minutes-per-4-hours play limit |
+| Play time used, and when the current 5-hour window began | To apply the 15-minutes-per-5-hours play limit |
 | Fastest win in Minesweeper, Sudoku and Nonogram, per difficulty | To show your best time |
 | Fewest moves in Tower of Hanoi, per difficulty | To show your record |
 | Fewest flips in Pairs, per board size | To show your record |
@@ -47,7 +47,7 @@ round.
 
 That is the complete list. None of it identifies you: there are no names, no email
 addresses, no device identifiers, no advertising ID, and no usage history — nothing
-records when you played, how often, or for how long beyond the single 4-hour window
+records when you played, how often, or for how long beyond the single 5-hour window
 the play limit is currently counting.
 
 ## Backups are switched off
