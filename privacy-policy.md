@@ -37,7 +37,7 @@ is uploaded, shared, or sold — there is nowhere for it to go.
 | Fastest win in Minesweeper, Sudoku and Nonogram, per difficulty | To show your best time |
 | Fewest moves in Tower of Hanoi, per difficulty | To show your record |
 | Fewest flips in Pairs, per board size | To show your record |
-| The game in progress in each of the nine games | So closing the app mid-game does not lose the board |
+| The game in progress in each game | So closing the app mid-game does not lose the board |
 
 A game in progress means the position itself — the squares dug, the disks stacked, the
 digits written — together with what the game needs to carry on: the options that round
