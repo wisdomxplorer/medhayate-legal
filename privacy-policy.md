@@ -37,6 +37,7 @@ is uploaded, shared, or sold — there is nowhere for it to go.
 | Fastest win in Minesweeper, Sudoku and Nonogram, per difficulty | To show your best time |
 | Fewest moves in Tower of Hanoi, per difficulty | To show your record |
 | Fewest flips in Pairs, per board size | To show your record |
+| Fewest letters tried to win in Word Guess, per word length | To show your record |
 | Which Chess lessons you have won, and in how many moves | To show how far through the course you are, and give you a figure to beat |
 | The game in progress in each game | So closing the app mid-game does not lose the board |
 
