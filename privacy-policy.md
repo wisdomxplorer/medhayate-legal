@@ -38,6 +38,7 @@ is uploaded, shared, or sold — there is nowhere for it to go.
 | Fewest moves in Tower of Hanoi, per difficulty | To show your record |
 | Fewest flips in Pairs, per board size | To show your record |
 | Fewest letters tried to win in Word Guess, per word length | To show your record |
+| Fewest misses, and most shapes found in a minute, in Odd One Out — per mode and board size | To show your records for its two ways of playing |
 | Which Chess lessons you have won, and in how many moves | To show how far through the course you are, and give you a figure to beat |
 | The game in progress in each game | So closing the app mid-game does not lose the board |
 
