@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service for Medhayate
 
-**Last updated: 16 August 2026**
+**Last updated: 10 September 2026**
 
 These terms cover your use of the Medhayate Android application ("the app"). By
 installing or using the app, you agree to them. If you do not agree, please uninstall
@@ -78,9 +78,10 @@ nothing here affects your statutory consumer rights.
 
 "Medhayate", "मेधायते", and the Medhayate logo are trademarks of the developer.
 
-The games in the app are traditional games described by their generic names — Four in a
-Row, Pairs, Tic-Tac-Toe, Minesweeper, Tower of Hanoi. No affiliation with, sponsorship
-by, or endorsement from any third-party rights holder is claimed or implied.
+The games in the app are traditional games described by their commonly used or generic
+names — Chess, Four in a Row, Minesweeper, Nim, Nonogram, Pairs, Reversi, Sudoku,
+Tic-Tac-Toe, Tower of Hanoi, and Word Guess. No affiliation with, sponsorship by, or
+endorsement from any third-party rights holder is claimed or implied.
 
 ## 10. Governing law
 
