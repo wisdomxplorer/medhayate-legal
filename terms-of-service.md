@@ -79,13 +79,13 @@ nothing here affects your statutory consumer rights.
 "Medhayate", "मेधायते", and the Medhayate logo are trademarks of the developer.
 
 The games in the app are traditional games, referred to here by their names — Chess,
-Four in a Row, Lamps and Walls, Minesweeper, Nim, Nonogram, Pairs, Reversi, One of Each,
-Tic-Tac-Toe, Tower of Hanoi, and Word Guess. No affiliation with, sponsorship by, or
+Four in a Row, Lamps and Walls, Minesweeper, Nim, Nine Stones, Nonogram, Pairs, Reversi,
+One of Each, Tic-Tac-Toe, Tower of Hanoi, and Word Guess. No affiliation with, sponsorship by, or
 endorsement from any third-party rights holder is claimed or implied.
 
 Some of those are the ordinary or generic term for the game. The rest — Four in a Row,
-Pairs, Word Guess, Lamps and Walls and One of Each — are plain descriptions of what the
-game asks you to do, chosen deliberately in place of a name the game is sold under or
+Pairs, Word Guess, Lamps and Walls, One of Each and Nine Stones — are plain descriptions of
+what the game asks you to do, chosen deliberately in place of a name the game is sold under or
 registered by someone else.
 
 ## 10. Governing law
