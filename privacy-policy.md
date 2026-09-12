@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy for Medhayate
 
-**Last updated: 22 August 2026**
+**Last updated: 12 September 2026**
 
 ## The short version
 
@@ -87,4 +87,4 @@ than buried here.
 
 ## Contact
 
-Questions about this policy: gajanand.bihani@gmail.com
+Questions about this policy: medhayate.games@gmail.com

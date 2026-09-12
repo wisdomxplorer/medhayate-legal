@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service for Medhayate
 
-**Last updated: 10 September 2026**
+**Last updated: 12 September 2026**
 
 These terms cover your use of the Medhayate Android application ("the app"). By
 installing or using the app, you agree to them. If you do not agree, please uninstall
@@ -101,4 +101,4 @@ acceptance of the revised terms.
 
 ## 12. Contact
 
-gajanand.bihani@gmail.com
+medhayate.games@gmail.com
