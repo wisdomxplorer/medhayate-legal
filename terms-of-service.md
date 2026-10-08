@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service for Medhayate
 
-**Last updated: 12 September 2026**
+**Last updated: 7 October 2026**
 
 These terms cover your use of the Medhayate Android application ("the app"). By
 installing or using the app, you agree to them. If you do not agree, please uninstall
@@ -79,8 +79,8 @@ nothing here affects your statutory consumer rights.
 "Medhayate", "मेधायते", and the Medhayate logo are trademarks of the developer.
 
 The games in the app are traditional games, referred to here by their names — Chess,
-Four in a Row, Lamps and Walls, Minesweeper, Nim, Nine Stones, Nonogram, Pairs, Reversi,
-One of Each, Tic-Tac-Toe, Tower of Hanoi, and Word Guess. No affiliation with, sponsorship by, or
+Four in a Row, Lamps and Walls, Mahjong Solitaire, Minesweeper, Nim, Nine Stones, Nonogram,
+Oware, Pairs, Reversi, One of Each, Tic-Tac-Toe, Tower of Hanoi, and Word Guess. No affiliation with, sponsorship by, or
 endorsement from any third-party rights holder is claimed or implied.
 
 Some of those are the ordinary or generic term for the game. The rest — Four in a Row,

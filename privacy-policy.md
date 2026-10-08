@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy for Medhayate
 
-**Last updated: 12 September 2026**
+**Last updated: 8 October 2026**
 
 ## The short version
 
@@ -32,9 +32,9 @@ is uploaded, shared, or sold — there is nowhere for it to go.
 
 | What | Why it exists |
 |---|---|
-| Your settings — the theme, whether hints highlight the board, your play-limit choice, and any developer options you have switched on | So the app looks and behaves the same next time you open it |
+| Your settings — the theme, whether hints highlight the board, whether games offer Undo, whether games make sounds and how loud, your play-limit choice, and any developer options you have switched on | So the app looks and behaves the same next time you open it |
 | Play time used, and when the current 5-hour window began | To apply the 15-minutes-per-5-hours play limit |
-| Fastest win in Minesweeper, One of Each, Nonogram and Lamps and Walls, per difficulty | To show your best time |
+| Fastest win in Minesweeper, One of Each, Nonogram, Lamps and Walls and Mahjong Solitaire, per difficulty | To show your best time |
 | Fewest moves in Tower of Hanoi, per difficulty | To show your record |
 | Fewest flips in Pairs, per board size | To show your record |
 | Fewest letters tried to win in Word Guess, per word length | To show your record |
