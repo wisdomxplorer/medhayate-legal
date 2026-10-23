@@ -78,7 +78,7 @@ nothing here affects your statutory consumer rights.
 
 "Medhayate", "मेधायते", and the Medhayate logo are trademarks of the developer.
 
-The games in the app are traditional games, referred to here by their names — Chess,
+The games in the app are traditional games, referred to here by their names — Bagh-Chal, Chess,
 Four in a Row, Lamps and Walls, Loop Capture, Mahjong Solitaire, Minesweeper, Nim, Nine Stones, Nonogram,
 Oware, Pairs, Reversi, One of Each, Tic-Tac-Toe, Tower of Hanoi, and Word Guess. No affiliation with, sponsorship by, or
 endorsement from any third-party rights holder is claimed or implied.
