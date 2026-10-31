@@ -25,6 +25,11 @@ microphone, location, files, or any other device data. The build itself enforces
 every release is checked against its own merged manifest and fails to build if any
 permission appears.
 
+**Rate Medhayate** and **Send feedback** in Settings, and the occasional "Rate it" line
+after a win, do not send anything either. They hand you to another app — the Play Store
+at Medhayate's page, or your own email app with our address filled in — and anything
+that happens there, you do yourself, under that app's own terms.
+
 ## What is stored, and where
 
 Everything Medhayate saves stays in the app's private storage on your device. Nothing
@@ -40,6 +45,7 @@ is uploaded, shared, or sold — there is nowhere for it to go.
 | Fewest letters tried to win in Word Guess, per word length | To show your record |
 | Which Chess lessons you have won, and in how many moves | To show how far through the course you are, and give you a figure to beat |
 | The game in progress in each game | So closing the app mid-game does not lose the board |
+| How many games you have won, counted only up to five; how many times, and when last, a result card asked you to rate the app; and whether you have tapped a rating link | So that line comes rarely, and never again once you have used it |
 
 A game in progress means the position itself — the squares dug, the disks stacked, the
 digits written — together with what the game needs to carry on: the options that round
@@ -50,7 +56,8 @@ round.
 That is the complete list. None of it identifies you: there are no names, no email
 addresses, no device identifiers, no advertising ID, and no usage history — nothing
 records when you played, how often, or for how long beyond the single 5-hour window
-the play limit is currently counting.
+the play limit is currently counting, and the date a result card last asked for a
+rating.
 
 ## Backups are switched off
 
