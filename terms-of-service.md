@@ -80,13 +80,14 @@ nothing here affects your statutory consumer rights.
 
 The games in the app are traditional games, referred to here by their names — Bagh-Chal, Chess,
 Four in a Row, Lamps and Walls, Loop Capture, Mahjong Solitaire, Minesweeper, Nim, Nine Stones, Nonogram,
-Oware, Pairs, Reversi, One of Each, Tic-Tac-Toe, Tower of Hanoi, and Word Guess. No affiliation with, sponsorship by, or
+Oware, Pairs, Reversi, One of Each, Stem by Stem, Tic-Tac-Toe, Tower of Hanoi, and Word Guess. No affiliation with, sponsorship by, or
 endorsement from any third-party rights holder is claimed or implied.
 
 Some of those are the ordinary or generic term for the game. The rest — Four in a Row,
 Pairs, Word Guess, Lamps and Walls, One of Each, Nine Stones and Loop Capture — are plain descriptions of
 what the game asks you to do, chosen deliberately in place of a name the game is sold under or
-registered by someone else.
+registered by someone else. Stem by Stem is the game known as Hackenbush, the name John Conway gave it,
+called here by a plain description so its name says what you do.
 
 ## 10. Governing law
 
